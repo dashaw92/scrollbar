@@ -1,0 +1,16 @@
+body {
+    overflow-y: hidden;
+    background: linear-gradient(135deg, #d8bb5c, #9d51a0);
+}
+
+div.scrollbar {
+    position: fixed;
+    top: 0%;
+    left: 98%;
+    width: 10px;
+    height: 60px;
+    background: #4c4c4c;
+    border: 1px solid black;
+    border-radius: 30px;
+
+}
